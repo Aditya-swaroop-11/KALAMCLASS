@@ -1,5 +1,5 @@
 print("COMPUTING")
-print("avantika")
+print("Avantika University")
 print("Kalam Class")
 print("python")
 print(" yo yo ")
